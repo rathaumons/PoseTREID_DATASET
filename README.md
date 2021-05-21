@@ -34,4 +34,12 @@ For **real-time video comparison**: [CLICK HERE!](https://drive.google.com/open?
 
 ### Citation
 Please kindly cite this paper if you find it helpful for your research.
-**Will be updated soon**
+```
+@INPROCEEDINGS{ptreid9271712,
+  author={Siv, Ratha and Mancas, Matei and Sreng, Sokchenda and Chhun, Sophea and Gosselin, Bernard},
+  booktitle={2020 12th International Conference on Information Technology and Electrical Engineering (ICITEE)}, 
+  title={People Tracking and Re-Identifying in Distributed Contexts: PoseTReID Framework and Dataset}, 
+  year={2020},
+  pages={323-328},
+  doi={10.1109/ICITEE49829.2020.9271712}}
+```
